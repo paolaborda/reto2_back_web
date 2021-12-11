@@ -16,7 +16,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
  * @author user
  */
 
-@Document(collection ="footwears")
+@Document(collection ="footwear")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
